@@ -20,7 +20,8 @@ My learning workspace for becoming a web developer, progressing to full-stack de
 ## Current focus
 
 - [ ] Complete the HTML Mastery Roadmap.
-- [ ] Build the Personal Profile Page.
+- [x] Build the Personal Profile Page.
+- [ ] Build the Multi-page Recipe Website.
 - [ ] Validate HTML and practice accessible markup.
 - [ ] Commit small, focused changes with Git.
 
@@ -28,7 +29,7 @@ My learning workspace for becoming a web developer, progressing to full-stack de
 
 | Area | Project | Status |
 | --- | --- | --- |
-| HTML | [Personal Profile Page](Projects/HTML/html_profile_page/README.md) | In progress |
+| HTML | [Personal Profile Page](Projects/HTML/html_profile_page/README.md) | Complete |
 
 ## Planned stack
 
