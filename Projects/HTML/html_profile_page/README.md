@@ -15,10 +15,10 @@ Create a simple one-page profile.
 ### Things to do
 
 - [x] A meaningful title and meta description.
-- [ ] Your name as the single `<h1>`, followed by logical heading levels.
-- [ ] A short bio, profile image with useful alt text, and links to relevant sites.
-- [ ] A favorites list and a small quote or contact section.
-- [ ] 🍾 Project Complete! 🍾
+- [x] Your name as the single `<h1>`, followed by logical heading levels.
+- [x] A short bio, profile image with useful alt text, and links to relevant sites.
+- [x] A favorites list and a small quote or contact section.
+- [x] 🍾 Project Complete! 🍾
 
 ### Things to remind for git commits
 
