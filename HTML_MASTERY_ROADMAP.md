@@ -17,11 +17,11 @@ Learn:
 
 Create a one-page profile with:
 
-- [ ] A meaningful title and meta description.
-- [ ] Your name as the single `<h1>`, followed by logical heading levels.
-- [ ] A short bio, profile image with useful alt text, and links to relevant sites.
-- [ ] A favorites list and a small quote or contact section.
-- [ ] 🍾 Project Complete! 🍾 
+- [x] A meaningful title and meta description.
+- [x] Your name as the single `<h1>`, followed by logical heading levels.
+- [x] A short bio, profile image with useful alt text, and links to relevant sites.
+- [x] A favorites list and a small quote or contact section.
+- [x] 🍾 Project Complete! 🍾 
 
 **Mastery check:** you can create a valid HTML document from an empty file and explain why heading levels must be ordered logically.
 
