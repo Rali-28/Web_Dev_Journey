@@ -18,7 +18,7 @@ Build a small, multi-page recipe website to practice structuring content with me
 - [x] Add a shared navigation menu to every page, with working relative links.
 - [x] Structure the recipe content as an article.
 - [x] Present ingredients in a list and cooking instructions as numbered steps.
-- [ ] Include preparation time, cooking time, and servings.
+- [x] Include preparation time, cooking time, and servings.
 - [ ] Add a related-recipes aside.
 - [ ] Add a table of contents with anchor links to recipe sections.
 - [ ] Use meaningful filenames and check that all links work.
