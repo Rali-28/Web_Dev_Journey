@@ -38,11 +38,11 @@ Learn:
 
 Create at least three pages: home, recipe detail, and about/contact.
 
-- [ ] Use a shared navigation menu on every page.
-- [ ] Make a recipe article with ingredients as a list, numbered cooking steps, prep/cook times, servings, and a related-recipes aside.
-- [ ] Add anchor links that jump from a table of contents to recipe sections.
-- [ ] Use meaningful filenames and relative links.
-- [ ] 🍾 Project Complete! 🍾 
+- [x] Use a shared navigation menu on every page.
+- [x] Make a recipe article with ingredients as a list, numbered cooking steps, prep/cook times, servings, and a related-recipes aside.
+- [x] Add anchor links that jump from a table of contents to recipe sections.
+- [x] Use meaningful filenames and relative links.
+- [x] 🍾 Project Complete! 🍾 
 
 **Mastery check:** you can choose the appropriate semantic element for each major page region without relying on `<div>` for everything.
 
