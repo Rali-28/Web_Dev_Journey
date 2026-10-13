@@ -15,7 +15,7 @@ Build a small, multi-page recipe website to practice structuring content with me
 ## Project checklist
 
 - [x] Create at least three pages: a home page, a recipe detail page, and an about/contact page.
-- [ ] Add a shared navigation menu to every page, with working relative links.
+- [x] Add a shared navigation menu to every page, with working relative links.
 - [ ] Structure the recipe content as an article.
 - [ ] Present ingredients in a list and cooking instructions as numbered steps.
 - [ ] Include preparation time, cooking time, and servings.
