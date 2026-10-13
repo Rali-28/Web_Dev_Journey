@@ -22,7 +22,7 @@ Build a small, multi-page recipe website to practice structuring content with me
 - [x] Add a related-recipes aside.
 - [x] Add a table of contents with anchor links to recipe sections.
 - [x] Use meaningful filenames and check that all links work.
-- [ ] Review each page and choose semantic elements for its major regions.
+- [x] Review each page and choose semantic elements for its major regions.
 - [ ] 🍾 Project Complete! 🍾
 
 ## Stage 2 mastery check
