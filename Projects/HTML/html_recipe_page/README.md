@@ -21,7 +21,7 @@ Build a small, multi-page recipe website to practice structuring content with me
 - [x] Include preparation time, cooking time, and servings.
 - [x] Add a related-recipes aside.
 - [x] Add a table of contents with anchor links to recipe sections.
-- [ ] Use meaningful filenames and check that all links work.
+- [x] Use meaningful filenames and check that all links work.
 - [ ] Review each page and choose semantic elements for its major regions.
 - [ ] 🍾 Project Complete! 🍾
 
