@@ -19,7 +19,7 @@ Build a small, multi-page recipe website to practice structuring content with me
 - [x] Structure the recipe content as an article.
 - [x] Present ingredients in a list and cooking instructions as numbered steps.
 - [x] Include preparation time, cooking time, and servings.
-- [ ] Add a related-recipes aside.
+- [x] Add a related-recipes aside.
 - [ ] Add a table of contents with anchor links to recipe sections.
 - [ ] Use meaningful filenames and check that all links work.
 - [ ] Review each page and choose semantic elements for its major regions.
