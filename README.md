@@ -21,7 +21,7 @@ My learning workspace for becoming a web developer, progressing to full-stack de
 
 - [ ] Complete the HTML Mastery Roadmap.
 - [x] Build the Personal Profile Page.
-- [ ] Build the Multi-page Recipe Website.
+- [x] Build the Multi-page Recipe Website.
 - [ ] Validate HTML and practice accessible markup.
 - [ ] Commit small, focused changes with Git.
 
